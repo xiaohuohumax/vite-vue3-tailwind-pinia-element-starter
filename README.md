@@ -1,4 +1,4 @@
-# Vue3 +Vite +Element Plus +Pinia +Tailwind CSS +Axios⚡
+# Vue3 +Vite +Element Plus +Pinia +Tailwind CSS⚡
 
 ### This starter template includes:
 
